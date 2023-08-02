@@ -23,7 +23,7 @@ main{
 
 #telefone{
     position: absolute;
-    top: 50%;
+    top: 51%;
     left: 50%;
     transform: translate(-50% ,-50%);
 
@@ -35,9 +35,9 @@ main{
 
 #tela{
     position: relative;
-    top: 82px;
+    top: 81px;
     left: 23px;
-    width: 266px;
+    width: 265px;
     height: 468px;
 }
 
